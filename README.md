@@ -15,7 +15,7 @@
 </h3>
 
 <h3>
-    <i>- Currently working at Masai School as an Instructional Associate</i>
+   
 </h3>
 <br>
 
