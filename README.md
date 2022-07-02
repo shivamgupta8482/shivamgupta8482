@@ -48,5 +48,5 @@ I am dedicated  and  determined  aspiring  full-stack developer with a specializ
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka3002&" alt="anushka3002" /></p>
 <br><br>
-<img alt="Anushka's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anushka3002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<img alt="Shivam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anushka3002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
