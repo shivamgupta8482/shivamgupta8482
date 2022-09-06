@@ -51,5 +51,5 @@ I am dedicated  and  determined  aspiring  full-stack developer with a specializ
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka3002&" alt="anushka3002" /></p>
 
-
+<br><br>
 
