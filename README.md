@@ -29,7 +29,7 @@ I am dedicated  and  determined  aspiring  full-stack developer with a specializ
 
 - 📫 How to reach me **shivam9521409830@gmail.com**
 
-- 📄 Know about my experiences [View Resume]()
+- 📄 Know about my experiences [View Resume](**https://drive.google.com/file/d/1m86A0TKHelynL4yOkwar8k7sfAQVA3oE/view?usp=sharing**)
 
 
 <br>
