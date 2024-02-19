@@ -1,6 +1,5 @@
 <br><br>
 <h1 style="color:blue" align="center">Hi 👋, I'm Shivam Gupta from Orai, Uttar Pradesh
-   <img src="https://tenor.com/view/game-stop-gme-stock-stonk-bb-gif-20154886" width="50px" style="max-width: 100%;"/>
 </h1>
 <h3 align="center">MERN Stack Developer</h3>
 <br><br>
