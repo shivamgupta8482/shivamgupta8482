@@ -17,7 +17,7 @@
 
 
 # Brief about me...!!!
-I am dedicated  and  determined  aspiring  full-stack developer with a specialization  in MERN stack. Seeking challenging  opportunities  to make  the  best  use  of my abilities  and  knowledge  to  develop  both  my professional and interpersonal skills, along with fulfilling the organization's growth and goals.
+A proficient developer with one year of hands-on experience in the MERN stack, adept at crafting diverse features such as billing sections and pivotal components for organizational advancement. Demonstrated expertise includes skillful navigation of the MERN technology stack to engineer robust solutions that meet business objectives with precision. Proficient in leveraging innovative methodologies and best practices to streamline development processes and enhance project outcomes. Committed to delivering high-quality, scalable solutions that drive operational efficiency and elevate user experiences. Continuously seeks opportunities for professional growth and remains abreast of emerging trends within the dynamic realm of web development.
 <br><br>
 
 
