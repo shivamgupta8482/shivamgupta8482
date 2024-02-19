@@ -17,7 +17,7 @@
 
 
 # Brief about me...!!!
-A proficient developer with one year of hands-on experience in the MERN stack, adept at crafting diverse features such as billing sections and pivotal components for organizational advancement. Demonstrated expertise includes skillful navigation of the MERN technology stack to engineer robust solutions that meet business objectives with precision. 
+A proficient developer with more than one year of hands-on experience in the MERN stack, adept at crafting diverse features such as billing sections and pivotal components for organizational advancement. Demonstrated expertise includes skillful navigation of the MERN technology stack to engineer robust solutions that meet business objectives with precision. 
 <br><br>
 
 
