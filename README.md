@@ -29,7 +29,7 @@ I am dedicated  and  determined  aspiring  full-stack developer with a specializ
 
 - 📫 How to reach me **shivam9521409830@gmail.com**
 
-- 📄 Know about my experiences <a target="_blank" href="[https://drive.google.com/file/d/1m86A0TKHelynL4yOkwar8k7sfAQVA3oE/view?usp=sharing](https://drive.google.com/file/d/1Ck0popXHMfKRNRbYjvHhCOH_djDL8LuL/view?usp=sharing)" >View Resume</a>
+- 📄 Know about my experiences <a target="_blank" href="https://drive.google.com/file/d/1Ck0popXHMfKRNRbYjvHhCOH_djDL8LuL/view?usp=sharing" >View Resume</a>
 
 
 <br>
@@ -57,7 +57,7 @@ I am dedicated  and  determined  aspiring  full-stack developer with a specializ
 <img align="center" height="250px" width="450px" src="https://github-readme-stats.vercel.app/api?username=anushka3002&show_icons=true&locale=en" alt="anushka3002" />
 </p> -->
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka3002&" alt="anushka3002" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka3002&" alt="shivamgupta" /></p>
 
 <br><br>
 
